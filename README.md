@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @medwards34
-- 👀 I’m interested in technical writing and programming
-- 🌱 I’m currently learning how to create a website 
-- 💞️ I’m looking to collaborate on technical writing documents 
-- 📫 How to reach me medwards3434@gmail.com
+Hello my name is Mitch.
+I am a freelance tech writer
+I am currently working on UX design as well as an archive database for gaming development
+I am interested in collborating on documentation 
+reach me @ medwards3434@gmail.com 
 
 <!---
 medwards34/medwards34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
